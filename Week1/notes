@@ -1,0 +1,47 @@
+// JS conventions 
+
+// Casing 
+camelCase
+var lName
+var myLocationIsInUtah = true
+
+//White space easier to read
+for (var i= 0; i< 10;i++)
+
+//naming
+var fn (firstName (is that much harder to just spell it out?))
+var lname ="jensen" (lastName)
+function takeTwoNumbersAndReturnTheSum - too longwinded
+function sum (num1, num2){}
+
+var (array) friends ={}
+var isDone = false
+ 
+
+// bracket pair colorizer
+//braces
+
+var person ={ address:
+street:"123 street"
+}
+
+//tab (indenting)
+
+statements inside other statements
+if (2==2){
+    (tab over)console.log("they are equal")
+    if (3==3){
+        console.log("they are equal")
+    }
+
+    //html tags
+    dont make up own   keep them lower cased
+    <div> <<exist <myDiv> <<does not exist
+
+    //comments
+/* *\
+
+//unix casing 
+lower cased and keep spaces out of the question
+use a dash or underscore _cia -cia 
+
