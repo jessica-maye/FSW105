@@ -1,10 +1,3 @@
-//is greater than if 5 is greater than 3
-//console.log("hello")
-//function halloweens() {
-//console.log("halloween")-what is written in code
-//halloweens() -debugging
-
-
 //5 is greater than 3
 
 if (5 > 3){

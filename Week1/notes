@@ -45,3 +45,8 @@ if (2==2){
 lower cased and keep spaces out of the question
 use a dash or underscore _cia -cia 
 
+//is greater than if 5 is greater than 3
+//console.log("hello")
+//function halloweens() {
+//console.log("halloween")-what is written in code
+//halloweens() -debugging
