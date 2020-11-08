@@ -50,3 +50,11 @@ use a dash or underscore _cia -cia
 //function halloweens() {
 //console.log("halloween")-what is written in code
 //halloweens() -debugging
+
+var powerRangers = [
+    "Hello World"
+]
+var rangersList = document.getElementById("arrays")
+var newName = document.createElement("Li")
+newName.textContent = powerRangers[0]
+rangersList.append(newName)
